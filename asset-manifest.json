@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://deepakj29.github.io/My-portfolio/static/css/main.2dcd7dad.css",
-    "main.js": "https://deepakj29.github.io/My-portfolio/static/js/main.f0913cf1.js",
-    "static/js/787.1f11dfe9.chunk.js": "https://deepakj29.github.io/My-portfolio/static/js/787.1f11dfe9.chunk.js",
-    "index.html": "https://deepakj29.github.io/My-portfolio/index.html",
-    "main.2dcd7dad.css.map": "https://deepakj29.github.io/My-portfolio/static/css/main.2dcd7dad.css.map",
-    "main.f0913cf1.js.map": "https://deepakj29.github.io/My-portfolio/static/js/main.f0913cf1.js.map",
-    "787.1f11dfe9.chunk.js.map": "https://deepakj29.github.io/My-portfolio/static/js/787.1f11dfe9.chunk.js.map"
+    "main.css": "/static/css/main.9c8447a1.css",
+    "main.js": "/static/js/main.92e4f9c2.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "index.html": "/index.html",
+    "main.9c8447a1.css.map": "/static/css/main.9c8447a1.css.map",
+    "main.92e4f9c2.js.map": "/static/js/main.92e4f9c2.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dcd7dad.css",
-    "static/js/main.f0913cf1.js"
+    "static/css/main.9c8447a1.css",
+    "static/js/main.92e4f9c2.js"
   ]
 }
